@@ -1,6 +1,6 @@
 # codewars
 
-**Codewars Kata Practice Solutions**
+**Codewars Kata Practice Solutions for Python and C++**
 
 ### Kata Details
 
