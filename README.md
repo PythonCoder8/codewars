@@ -1,8 +1,8 @@
 # codewars
 
-**Codewars Kata Practice Solutions for Python and C++**
+**Codewars Solutions for Python and C++**
 
-### Kata Details
+### Problem Details
 
 - C++
   - [Multiples of 3 or 5 - 6 kyu](https://www.codewars.com/kata/514b92a657cdc65150000006/cpp)
