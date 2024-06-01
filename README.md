@@ -19,4 +19,4 @@
 - Javascript
   - [WeIrD StRiNg CaSe - 6 kyu](https://www.codewars.com/kata/52b757663a95b11b3d00062d/javascript)
   - [Who Likes It? - 6 kyu](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/javascript)
-  - [Sum of Digits, Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00/javascript)
+  - [Sum of Digits, Digital Root - 6 kyu](https://www.codewars.com/kata/541c8630095125aba6000c00/javascript)
