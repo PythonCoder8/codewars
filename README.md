@@ -20,3 +20,4 @@
   - [WeIrD StRiNg CaSe - 6 kyu](https://www.codewars.com/kata/52b757663a95b11b3d00062d/javascript)
   - [Who Likes It? - 6 kyu](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/javascript)
   - [Sum of Digits, Digital Root - 6 kyu](https://www.codewars.com/kata/541c8630095125aba6000c00/javascript)
+  - [Convert String to Camel Case - 6 kyu](https://www.codewars.com/kata/517abf86da9663f1d2000003/javascript)
