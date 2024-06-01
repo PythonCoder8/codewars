@@ -16,3 +16,6 @@
   - [First Non-Repeating Character - 5 kyu](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/python)
   - [Roman Numerals Encoder - 6 kyu](https://www.codewars.com/kata/51b62bf6a9c58071c600001b/python)
   - [Roman Numerals Decoder - 6 kyu](https://www.codewars.com/kata/51b6249c4612257ac0000005/python)
+- Javascript
+  - [WeIrD StRiNg CaSe - 6 kyu](https://www.codewars.com/kata/52b757663a95b11b3d00062d/javascript)
+  - [Who Likes It? - 6 kyu](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/javascript)
