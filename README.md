@@ -9,6 +9,7 @@
   - [Create Phone Number - 6 kyu](https://www.codewars.com/kata/525f50e3b73515a6db000b83/cpp)
   - [Remove The Parentheses - 6 kyu](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8/cpp)
   - [Minimum Reduction - 6 kyu](https://www.codewars.com/kata/5ba47374b18e382069000052/cpp)
+  - [Isograms - 7 kyu](https://www.codewars.com/kata/54ba84be607a92aa900000f1/cpp)
 
 - Python
   - [Moving Zeros To The End - 5 kyu](https://www.codewars.com/kata/52597aa56021e91c93000cb0/python)
