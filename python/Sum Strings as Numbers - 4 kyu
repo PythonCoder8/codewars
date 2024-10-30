@@ -1,0 +1,14 @@
+def sum_strings(x, y):
+    x, y = x[::-1], y[::-1]
+    carry, result = 0, []
+
+    for i in range(max(len(x), len(y))):
+        digit_x = int(x[i]) if i < len(x) else 0
+        digit_y = int(y[i]) if i < len(y) else 0
+        carry, digit = divmod(digit_x + digit_y + carry, 10)
+        result.append(str(digit))
+    
+    if carry:
+        result.append(str(carry))
+    
+    return ''.join(result[::-1]).lstrip('0') or '0'
