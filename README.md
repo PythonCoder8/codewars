@@ -20,7 +20,7 @@
   - [Unique in Order - 6 kyu](https://www.codewars.com/kata/54e6533c92449cc251001667/python)
   - [Isograms - 7 kyu](https://www.codewars.com/kata/54ba84be607a92aa900000f1/python)
   - [Sum Strings as Numbers - 4 kyu](https://www.codewars.com/kata/5324945e2ece5e1f32000370/python)
-  - [Write Out Numbers](https://www.codewars.com/kata/52724507b149fa120600031d/python)
+  - [Write Out Numbers - 5 kyu](https://www.codewars.com/kata/52724507b149fa120600031d/python)
 
 - Javascript
   - [WeIrD StRiNg CaSe - 6 kyu](https://www.codewars.com/kata/52b757663a95b11b3d00062d/javascript)
