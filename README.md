@@ -21,6 +21,7 @@
   - [Isograms - 7 kyu](https://www.codewars.com/kata/54ba84be607a92aa900000f1/python)
   - [Sum Strings as Numbers - 4 kyu](https://www.codewars.com/kata/5324945e2ece5e1f32000370/python)
   - [Write Out Numbers - 5 kyu](https://www.codewars.com/kata/52724507b149fa120600031d/python)
+  - [Calculating With Functions - 5 kyu](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/python)
 
 - Javascript
   - [WeIrD StRiNg CaSe - 6 kyu](https://www.codewars.com/kata/52b757663a95b11b3d00062d/javascript)
