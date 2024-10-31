@@ -1,6 +1,6 @@
 # codewars
 
-**Codewars Solutions for Python, C++, and JavaScript**
+## Codewars Solutions for Python, C++, and JavaScript
 
 ### Problem Details
 
