@@ -22,6 +22,7 @@
   - [Sum Strings as Numbers - 4 kyu](https://www.codewars.com/kata/5324945e2ece5e1f32000370/python)
   - [Write Out Numbers - 5 kyu](https://www.codewars.com/kata/52724507b149fa120600031d/python)
   - [Calculating With Functions - 5 kyu](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/python)
+  - [Find the Unique String - 5 kyu](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3/python)
 
 - Javascript
   - [WeIrD StRiNg CaSe - 6 kyu](https://www.codewars.com/kata/52b757663a95b11b3d00062d/javascript)
