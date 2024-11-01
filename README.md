@@ -23,6 +23,7 @@
   - [Write Out Numbers - 5 Kyu](https://www.codewars.com/kata/52724507b149fa120600031d/python)
   - [Calculating With Functions - 5 kyu](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/python)
   - [Find the Unique String - 5 Kyu](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3/python)
+  - [flatten() - 5 kyu](https://www.codewars.com/kata/513fa1d75e4297ba38000003/python)
 
 - Javascript
   - [WeIrD StRiNg CaSe - 6 Kyu](https://www.codewars.com/kata/52b757663a95b11b3d00062d/javascript)
