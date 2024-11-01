@@ -1,0 +1,13 @@
+def flatten(*args):
+    result = []
+
+    def helper(item):
+        if isinstance(item, list):
+            for sub_item in item:
+                helper(sub_item)
+        else:
+            result.append(item)
+    for arg in args:
+        helper(arg)
+
+    return result
