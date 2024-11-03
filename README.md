@@ -4,7 +4,7 @@
 
 ### Problem Details
 
-[My Profile](https://www.codewars.com/users/PythonCoder8) 
+### [My Profile](https://www.codewars.com/users/PythonCoder8) 
 
 - C++
   - [Multiples of 3 or 5 - 6 Kyu](https://www.codewars.com/kata/514b92a657cdc65150000006/cpp)
