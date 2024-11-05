@@ -27,7 +27,7 @@
   - [Find the Unique String - 5 Kyu](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3/python)
   - [flatten() - 5 Kyu](https://www.codewars.com/kata/513fa1d75e4297ba38000003/python)
   - [Beeramid - 5 Kyu](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1/python)
-  - [Maximum Subarray Sum - 5 kyu](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/python)
+  - [Maximum Subarray Sum - 5 Kyu](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/python)
   - [Pete, the baker - 5 Kyu](https://www.codewars.com/kata/525c65e51bf619685c000059/python)
 
 - Javascript
